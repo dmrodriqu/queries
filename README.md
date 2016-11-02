@@ -11,3 +11,8 @@ Methods found here include:
     Multi variate comparisons with respect to severity of disease and time points
     Parsing medication information from free text to determine the most recent use of prescriptions
     
+
+
+Other documents in this repository incude
+
+    Methods to find or format specific types of information
