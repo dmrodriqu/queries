@@ -7,7 +7,7 @@ When parsing from medical records for vital information, I am always given the o
 
 Methods found here include:
     
-    Parsing entire sections of medical records for more specific searching capabilities
+    Parsing smaller sections of medical records for more specific searching capabilities
     Multi variate comparisons with respect to severity of disease and time points
     Parsing medication information from free text to determine the most recent use of prescriptions
     
