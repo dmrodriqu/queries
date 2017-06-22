@@ -63,4 +63,6 @@ from #recentsmoker a
 full outer join #recentformer b
 on b.ID = a.ID
 
-select (smokerID) as ID from #output where iscurrentsmoker like 'current'
+select (smokerID) as ID from #output 
+where iscurrentsmoker like 'current'
+
